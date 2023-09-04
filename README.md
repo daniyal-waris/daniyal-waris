@@ -31,7 +31,6 @@ Here are some of the key technologies and tools I'm proficient in:
 
 Here are some of the projects I've worked on:
 
-- [Dashboard](https://github.com/daniyal384/dashboard-design.git): .
 ## Dashboard
 
 - [Dashboard Design](https://github.com/daniyal384/dashboard-design.git): Dashboard Design.
