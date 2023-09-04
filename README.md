@@ -1,4 +1,4 @@
-# [DANIYAL]'s Web Developer Portfolio
+# DANIYAL's Web Developer Portfolio
 
 Welcome to my GitHub repository! Here, you'll find a collection of projects and code samples that showcase my skills as a web developer. I specialize in building web applications using MERN stack.
 
@@ -34,6 +34,9 @@ Here are some of the projects I've worked on:
 - [Dashboard](https://github.com/daniyal384/dashboard-design.git): Brief project description.
 ## Dashboard
 
+- [Expense Tracker](https://github.com/daniyal384/dashboard-design.git): Brief project description.
+## Dashboard
+
 [Dashboard](https://github.com/daniyal384/dashboard-design.git)
 
 **Brief Description:**
@@ -49,6 +52,37 @@ I've designed a responsive dashboard using Next.js and Tailwind CSS. This dashbo
 - Responsive layout for a consistent experience across devices.
 
 Feel free to explore the [live demo](https://dashboard-design-seven.vercel.app/) or check out the [project repository](Link to Project Repository) for more details and the source code.
+
+## Expense Tracker
+
+[Expense Tracker](https://github.com/daniyal384/calculate-age.git)
+
+
+**Brief Description:**
+
+I've developed an Expense Tracker application that allows you to easily manage your finances and track your expenses. This application is built using Next.js and Tailwind CSS, offering a modern and user-friendly interface. You can efficiently keep track of your income, expenses, and budgeting goals.
+
+**Key Features:**
+
+- Add and categorize your income and expenses.
+- View detailed transaction history.
+- Visualize your spending patterns with interactive charts.
+- Set budget goals and receive notifications.
+- Responsive design for seamless use on various devices.
+
+**What I Learned:**
+
+During the development of this project, I gained valuable experience in the following areas:
+
+- Firebase Configuration: I learned how to set up and configure Firebase for web applications, including initializing Firebase in a Next.js project.
+
+- Firestore Database: I mastered the art of working with Firestore, Firebase's NoSQL database, to handle data storage, retrieval, and management. This includes adding, updating, and deleting data in real-time.
+
+- User Authentication with Google: I implemented user authentication using Google's OAuth service. Users can securely sign in with their Google accounts, ensuring a seamless and safe user experience.
+
+<!-- Explore the [live demo](Link to Live Demo) or take a look at the [project repository](Link to Project Repository) for more information and access to the source code.
+
+![Expense Tracker Demo](URL to Expense Tracker Demo Gif or Video) -->
 
 <!-- 
 - [Project Name](Link to Project Repository or Live Demo): Brief project description.
