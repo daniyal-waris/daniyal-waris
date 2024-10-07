@@ -4,7 +4,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects and 
 
 ## About Me
 
-I'm Daniyal, a passionate web developer with 1.5+ years of experience in the industry. My goal is to create high-quality, responsive, and user-friendly web applications. I love working with the latest web technologies to bring ideas to life.
+I'm Daniyal, a passionate web developer with 3+ years of experience in the industry. My goal is to create high-quality, responsive, and user-friendly web applications. I love working with the latest web technologies to bring ideas to life.
 
 ## My Tech Stack
 
